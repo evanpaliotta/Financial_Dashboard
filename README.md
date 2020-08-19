@@ -1,4 +1,4 @@
-# Financial_Dashboard
+# Financial Dashboard
 
 One Paragraph of project description goes here
 
