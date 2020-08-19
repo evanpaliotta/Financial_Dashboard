@@ -8,10 +8,13 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+Fred API: to access datasets from the [U.S. Federal Reserve](https://fred.stlouisfed.org/). 
 
 ```
-Give examples
+pip install fredapi
+```
+```
+pip install fredapi
 ```
 
 ### Installing
@@ -58,9 +61,7 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [FredAPI](https://github.com/mortada/fredapi) - For macro data
 
 ## Contributing
 
