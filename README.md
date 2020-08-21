@@ -3,6 +3,12 @@ Analysts meander the web trying to find quality, real-time data to assist in the
 
 We created a dashboard which displays an overview of various financial instruments and data.  The Macro tab displays charts on Debt/GDP ratio, Dow/Gold ratio, Gold/Silver ratio, Real estate/Gold, Gold/Monetary base, S&P/Real estate, ISM manufacturing index, Unemployment, Commodities, CPI, Retail Sales, Velocity, Yield curve, Dollar index (DXY), and Bitcoin/Cryptocurrencies.  The Micro tab (DAVID). The AI tab (CHARLES). The Real Estate tab (AKSHAY). 
 
+## Team
+- Evan Paliotta
+- David Still
+- Akshay Jindal
+- Charles Xia
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
