@@ -16,12 +16,13 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 Fred API: to access datasets from the [U.S. Federal Reserve](https://fred.stlouisfed.org/). 
+Alpha Vantage API: link to Alpha Vantage's [documentation](https://alpha-vantage.readthedocs.io/en/latest/)
 
 ```
 pip install fredapi
 ```
 ```
-pip install fredapi
+pip install alpha_vantage
 ```
 
 ### Installing
