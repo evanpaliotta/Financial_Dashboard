@@ -1,0 +1,12 @@
+os
+beautifulsoup4
+jupyterlab
+requests
+pandas
+alpha-vantage
+fredapi
+yfinance
+plotly-express
+voila
+scikit-learn
+tensorflow
