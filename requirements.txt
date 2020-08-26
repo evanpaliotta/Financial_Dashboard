@@ -7,6 +7,6 @@ alpha-vantage
 fredapi
 yfinance
 plotly-express
-voila
+dash==1.15.0
 scikit-learn
 tensorflow
