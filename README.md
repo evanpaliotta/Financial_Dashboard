@@ -34,7 +34,7 @@ All visualizations were built with Plotly and deployed with Dash. Ngrok was used
 
 Notes for Micro Tab
 - Please enter only 1 ticker every 60 seconds. Due to API call limits it only allows for 1 ticker every minute.
-- Only the first 5 tabs will be updated
+- Only the first 5 charts will be updated
 
 ### AI/ML Tab
 ![AI/ML Tab](Videos/AI_ML.gif)
