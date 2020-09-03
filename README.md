@@ -24,13 +24,3 @@ All visualizations were built with Plotly and deployed with Dash. Ngrok was used
 * [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 * [Plotly](https://plotly.com/python) - Primary visualization library
 * [ngrok](https://ngrok.com/)
-
-## Usage
-### Macro Tab
-![Macro Tab](Videos/Macro.gif)
-
-### Micro Tab
-![Micro Tab](Videos/Micro.gif)
-
-### AI/ML Tab
-![AI/ML Tab](Videos/AI_ML.gif)
