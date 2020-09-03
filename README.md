@@ -31,6 +31,8 @@ All visualizations were built with Plotly and deployed with Dash. Ngrok was used
 
 ### Micro Tab
 ![Micro Tab](Videos/Micro.gif)
+- Please enter only 1 ticker every 60 seconds. Due to API call limits it only allows for 1 ticker every minute.
 
 ### AI/ML Tab
 ![AI/ML Tab](Videos/AI_ML.gif)
+- Every time you enter a new ticker please allow a few seconds for the machine learning model to run and update the corresponding Forecast Plot
