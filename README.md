@@ -36,3 +36,5 @@ All visualizations were built with Plotly and deployed with Dash. Ngrok was used
 ### AI/ML Tab
 ![AI/ML Tab](Videos/AI_ML.gif)
 - Every time you enter a new ticker please allow a few seconds for the machine learning model to run and update the corresponding Forecast Plot
+
+- For full sized videos checkout the Videos directory.
