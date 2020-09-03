@@ -40,6 +40,7 @@ Notes for Micro Tab
 ![AI/ML Tab](Videos/AI_ML.gif)
 
 Notes for the AI ML TAB
+- SPY, DJIA, NSAQ are fixed graphs with rolling 30 day pct changes. These graphs will not change given the ticker symbol, only the bottom 2 graphs change.
 - Every time you enter a new ticker please allow a few seconds for the machine learning model to run and update the corresponding Forecast Plot
 
 ### FAQ
